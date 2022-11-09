@@ -1,0 +1,11 @@
+1. Baseline model for time-series prediction. Current prediction is the last value
+go with our window selection
+train_set shape: 10000,34
+
+train_set : 80
+                 10
+
+
+2. Feature importance ranking. Add explanability
+3. Lasso to add regularization and reduce feature number.
+4. Add window length exploration for LSTM

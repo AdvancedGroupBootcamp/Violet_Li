@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.ratp.fr/explore/dataset/qualite-de-lair-mesuree-dans-la-station-auber/export/
+HostUrl=https://data.ratp.fr/explore/dataset/qualite-de-lair-mesuree-dans-la-station-auber/download/?format=csv&timezone=Europe/Paris&lang=fr&use_labels_for_header=true&csv_separator=%3B
